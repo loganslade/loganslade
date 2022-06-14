@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello, welcome to my Github! ###
+
+I am a molecular biologist looking to use progammatic solutions for laboratory problems. 
+
+Please check out some of the projects created for my PhD thesis in the PhD thesis repo! 
+
+Contact: logan.slade@dal.ca OR lgnslade@gmail.com 
+
+Dr. Logan Slade, Ph.D
 
 <!--
 **loganslade/loganslade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
