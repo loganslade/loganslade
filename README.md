@@ -1,6 +1,6 @@
 ### Hello, welcome to my Github! ###
 
-I am a molecular biologist looking to use R-based solutions for laboratory problems. 
+I am a cell biologist looking to use R-based solutions for laboratory problems. 
 
 Please check out some of the projects created for my PhD thesis in the PhD thesis repo! 
 
