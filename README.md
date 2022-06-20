@@ -6,7 +6,7 @@ Please check out some of the projects created for my PhD thesis in the PhD thesi
 
 Contact: logan.slade@dal.ca OR lgnslade@gmail.com 
 
-Dr. Logan Slade, Ph.D
+Logan Slade
 
 <!--
 **loganslade/loganslade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
