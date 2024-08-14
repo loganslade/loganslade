@@ -4,7 +4,7 @@ I am a cell biologist looking to use R-based solutions for laboratory problems.
 
 Please check out some of the projects created for my PhD thesis in the PhD thesis repo! 
 
-Contact: logan_slade@med.unc.edu OR lgnslade@gmail.com 
+Contact: logan_slade/at/med.unc.edu OR lgnslade/at/gmail.com 
 
 Logan Slade
 
